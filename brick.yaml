@@ -1,0 +1,16 @@
+name: bloc_class
+description: A brick to create bloc architecture folder with repository,cubit,state and screen..
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.26 <0.1.0"
+
+repository: https://github.com/Adil-Rangila/bloc_class
+
+vars:
+  name:
+    type: string
+    description: Clas Name
+    default: Home
+    prompt: What is your class name?
