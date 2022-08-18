@@ -1,4 +1,4 @@
-part of '{{name}}_cubit.dart';
+part of '{{name.lowerCase()}}_cubit.dart';
 
 @immutable
 abstract class {{name.pascalCase()}}State {}
