@@ -21,6 +21,8 @@ Generated folder architecture
 ```
 📦lib
  ┣ 📂src
+ ┃ ┣ 📂repositories
+ ┃ ┃ ┗ 📜home_repository.dart
  ┃ ┣ 📂screens
  ┃ ┣ ┣ 📂home
  ┃ ┃ ┣ ┣ 📂cubit
